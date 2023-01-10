@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nuno Castro</h1>
+<h1 align="center">Hi 👋, I'm Gonçalo Oliveira</h1>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=oliveira1712&label=Profile%20views&color=0e75b6&style=flat" />
   <a href="https://github.com/oliveira1712?tab=followers">
